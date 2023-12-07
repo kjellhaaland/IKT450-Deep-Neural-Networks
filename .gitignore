@@ -1,6 +1,11 @@
 
-Experiments
-ProjectExperiments
-Project
+**/__pycache__/
 
-./06_Recurrent_Neural_Networks/data/*
+Experiments
+ProjectExperiments 
+
+Project/Data
+Project/Efficientnet/Images
+Project/Efficientnet_v2/Images
+Project/Resnet/Images
+Project/Yolov8/Images
